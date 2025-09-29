@@ -1,1 +1,1 @@
-pytest
+pytest test_Suite.py
