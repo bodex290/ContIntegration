@@ -1,5 +1,5 @@
 import unittest
-from function import add_numbers
+from my_function import add_numbers
 
 class TestAddNumbers(unittest.TestCase):
     def test_positive_integers(self):
