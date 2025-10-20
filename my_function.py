@@ -33,3 +33,6 @@ if __name__ == "__main__":
     X, Y = generate_data()
     M, B = fit_line(X, Y)
     plot_line(X, Y, M, B, savepath="fit.png")
+
+# my_function.py
+
